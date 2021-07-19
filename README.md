@@ -2,7 +2,6 @@
 
 ## Color flipper
 
-## Hosted Link
-
-[Live Preview] ()
+## Hosted Link:
+https://ayos-color-flipper.netlify.app/
 
